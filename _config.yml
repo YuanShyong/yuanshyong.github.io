@@ -8,11 +8,11 @@
 ############################
 
 # Basic Information 
-title: Gary Fishman
-position: Ph.D. Student
-affiliation: National Taiwan University<br>國立台灣大學
+title: Yuan Shyong Ooi
+position: Postdoctoral Fellow
+affiliation: NCTS, National Taiwan University<br>國立台灣大學
 affiliation_link: https://www.math.ntu.edu.tw/
-email: fishman (at) university.edu
+email: yuanshyong (at) ncts.ntu.edu.tw
 # address: No. 1, Sec. 4, Roosevelt Rd.<br>Taipei City 106, Taiwan (R.O.C.)
 
 # your profile picture
@@ -22,9 +22,9 @@ avatar: ./assets/img/profile_alt.jpg
 # For those you don't need, delete or comment out the corresponding line.
 cv_link: assets/files/shinchan_sample_cv.pdf
 arxiv: https://arxiv.org/a/0000-0002-0101-0521
-google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
-math_overflow: https://mathoverflow.net/users/81295/harry-richman
-github_link: https://github.com/harryrichman
+google_scholar: https://scholar.google.com.tw/citations?user=v3hHG8gAAAAJ&hl=zh-CN
+math_overflow: Nothing
+github_link: https://github.com/yuanshyong
 # linkedin: https://www.linkedin.com/in/harry-richman/
 # orcid: https://orcid.org/0000-0002-0101-0521
 
