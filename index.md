@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Yng-Ing Lee](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=39253)
+I am a Ph.D. student at National Taiwan University, advised by [Yng-Ing Lee](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=39253). Currently I am a postdoctoral fellow in NCTS. 
 
 
 ## Research Interests
