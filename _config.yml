@@ -20,10 +20,9 @@ avatar: ./assets/img/931304.jpg
 
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
-cv_link: assets/files/shinchan_sample_cv.pdf
-arxiv: https://arxiv.org/a/0000-0002-0101-0521
+cv_link: assets/files/202509 Yuan Shyong cv.pdf
+arxiv: https://arxiv.org/search/?query=Ooi%2C+Yuan+Shyong&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 google_scholar: https://scholar.google.com.tw/citations?user=v3hHG8gAAAAJ&hl=zh-CN
-math_overflow: Nothing
 github_link: https://github.com/yuanshyong
 # linkedin: https://www.linkedin.com/in/harry-richman/
 # orcid: https://orcid.org/0000-0002-0101-0521
