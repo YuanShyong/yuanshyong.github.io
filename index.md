@@ -35,19 +35,6 @@ I have experience teaching the fundamental theorem of calculus
 ## Misc. Links
 
 - [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
+- [Mathcha](https://www.mathcha.io)
+- [SJR](https://www.scimagojr.com/journalrank.php#google_vignette)
 
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
